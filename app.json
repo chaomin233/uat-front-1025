@@ -1,0 +1,19 @@
+{
+  "appKey": "sPSeBwNDCMrQqd9HulGzGmLRk5EREnGV",
+  "appSecret": "PdBOlWF1NcEJ9mrXHFACoHG4TnPnEBuC",
+  "projectId": "e379232f0a3248d52bd685358df29c63",
+  "id": 243,
+  "name": "aaa",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "",
+  "git": {
+    "url": "https://github.com/chaomin233/uat-front-1025.git",
+    "isPrivate": 0,
+    "username": "chaomin233",
+    "password": "abcd153010508"
+  },
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
